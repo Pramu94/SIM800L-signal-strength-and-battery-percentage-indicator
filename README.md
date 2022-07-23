@@ -1,4 +1,5 @@
-# SIM800L-signal-strength-and-battery-percentage-indicator
+# SIM800L signal strength and battery percentage indicator
+ 
  Components Required: 
    1. Arduino UNO 
    2. SIM800L GSM Module 
